@@ -8,115 +8,115 @@ h1{
     height: 300px;
 }
 .primera{
-    background-color: rgb(255, 166, 0);
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     position: absolute;
 }
 .segunda{
-    background-color: red;
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     margin-left: 100px;
     position: absolute;
 }
 .tercera{
-    background-color: rgb(255, 0, 242);
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     margin-left: 200px;
 }
 .cuarta{
-    background-color: rgb(0, 247, 255);
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     position: absolute;
 }
 .quinta{
-    background-color: rgb(143, 255, 137);
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     margin-left: 100px;
     position: absolute;
 }
 .sexta{
-    background-color: rgb(134, 132, 48);
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     margin-left: 200px;
 }
 .siete{
-    background-color: rgb(19, 93, 5);
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     position: absolute;
 }
 .ocho{
-    background-color: rgb(106, 0, 255);
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     margin-left: 100px;
     position: absolute;
 }
 .nueve{
-    background-color: rgb(38, 0, 255);
+    background-color: rgb(242, 255, 0);
     width: 100px;
     height: 50px;
     margin-left: 200px;
 }
 .diez{
-    background-color: rgb(255, 0, 98);
+    background-color: rgb(25, 0, 255);
     width: 100px;
     height: 50px;
     position: absolute;
 }
 .once{
-    background-color: rgb(234, 26, 54);
+    background-color: rgb(25, 0, 255);
     width: 100px;
     height: 50px;
     margin-left: 100px;
     position: absolute;
 }
 .doce{
-    background-color: rgb(255, 247, 0);
+    background-color: rgb(25, 0, 255);
     width: 100px;
     height: 50px;
     margin-left: 200px;
 }
 .trece{
-    background-color: rgb(140, 255, 83);
+    background-color: rgb(25, 0, 255);
     width: 100px;
     height: 50px;
     position: absolute;
 }
 .catorce{
-    background-color: rgb(235, 41, 209);
+    background-color: rgb(25, 0, 255);
     width: 100px;
     height: 50px;
     margin-left: 100px;
     position: absolute;
 }
 .quince{
-    background-color: rgb(44, 143, 35);
+    background-color: rgb(25, 0, 255);
     width: 100px;
     height: 50px;
     margin-left: 200px;
 }
 .dieciseis{
-    background-color: rgb(172, 217, 146);
+    background-color: rgb(255, 0, 0);
     width: 100px;
     height: 50px;
     position: absolute;
 }
 .diecisiete{
-    background-color: rgb(217, 239, 93);
+    background-color: rgb(255, 0, 0);
     width: 100px;
     height: 50px;
     margin-left: 100px;
     position: absolute;
 }
 .dieciocho{
-    background-color: rgb(199, 98, 78);
+    background-color: rgb(255, 0, 0);
     width: 100px;
     height: 50px;
     margin-left: 200px;
