@@ -2,6 +2,7 @@ h1{
     color: blue;
 }
 #contenedor{
+    position: relative;
     background-color: gray;
     width: 300px;
     height: 300px;
@@ -32,7 +33,7 @@ h1{
     position: absolute;
 }
 .quinta{
-    background-color: rgb(79, 164, 75);
+    background-color: rgb(143, 255, 137);
     width: 100px;
     height: 50px;
     margin-left: 100px;
@@ -70,7 +71,7 @@ h1{
     position: absolute;
 }
 .once{
-    background-color: rgb(6, 60, 75);
+    background-color: rgb(234, 26, 54);
     width: 100px;
     height: 50px;
     margin-left: 100px;
@@ -83,39 +84,39 @@ h1{
     margin-left: 200px;
 }
 .trece{
-    background-color: rgb(255, 0, 174);
+    background-color: rgb(140, 255, 83);
     width: 100px;
     height: 50px;
     position: absolute;
 }
 .catorce{
-    background-color: rgb(142, 27, 27);
+    background-color: rgb(235, 41, 209);
     width: 100px;
     height: 50px;
     margin-left: 100px;
     position: absolute;
 }
 .quince{
-    background-color: rgb(20, 0, 109);
+    background-color: rgb(44, 143, 35);
     width: 100px;
     height: 50px;
     margin-left: 200px;
 }
 .dieciseis{
-    background-color: rgb(14, 182, 188);
+    background-color: rgb(172, 217, 146);
     width: 100px;
     height: 50px;
     position: absolute;
 }
 .diecisiete{
-    background-color: rgb(35, 112, 31);
+    background-color: rgb(217, 239, 93);
     width: 100px;
     height: 50px;
     margin-left: 100px;
     position: absolute;
 }
 .dieciocho{
-    background-color: rgb(0, 32, 42);
+    background-color: rgb(199, 98, 78);
     width: 100px;
     height: 50px;
     margin-left: 200px;
