@@ -49,9 +49,13 @@ ejemplo de una mezcla de las dos listas
 
     Ejemplo de enlaces de imagen
     "Insertarla desde github, es mas sencillo:
+
     [lipsum](https://www.lipsum.com/)
+
     <https://www.lipsum.com/>
 
 <img width="1381" height="747" alt="Screenshot 2025-09-23 095829" src="https://github.com/user-attachments/assets/1ab9e5b0-9aac-49e5-8ed8-12e5a2943f97" />
-<img src="https://github.com/user-attachments/assets/1ab9e5b0-9aac-49e5-8ed8-12e5a2943f97" width="100>
+
+
+<img src="https://github.com/user-attachments/assets/1ab9e5b0-9aac-49e5-8ed8-12e5a2943f97" width="100">
 
