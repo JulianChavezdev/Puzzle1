@@ -59,3 +59,15 @@ ejemplo de una mezcla de las dos listas
 
 <img src="https://github.com/user-attachments/assets/1ab9e5b0-9aac-49e5-8ed8-12e5a2943f97" width="100">
 
+ ```bash
+npm install
+```
+
+```javascript
+function decirHola() {
+console.log('hola');
+}
+
+
+
+
